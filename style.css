@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    height: 100dvh;
+    overflow-y: hidden;
+}
+
+body {
+    background-color: #376c02;
+}
+
+.flex-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.border {
+    border: 3px solid #000;
+    width: 600px;
+    height: 600px;
+}
